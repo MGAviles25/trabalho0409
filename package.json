@@ -1,0 +1,29 @@
+{
+  "name": "trabalho-22-08",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.11.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MGAviles25/Trabalho-22-08.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MGAviles25/Trabalho-22-08/issues"
+  },
+  "homepage": "https://github.com/MGAviles25/Trabalho-22-08#readme",
+  "description": ""
+}
